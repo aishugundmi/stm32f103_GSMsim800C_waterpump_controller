@@ -50,3 +50,8 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+
+# my_ignore
+EWARM/GSM_motor_control
+EWARM/settings
